@@ -1,5 +1,5 @@
 # chrome-firefox-example-plugin
-A example database showing an example of plugin made both for Google Chrome and Mozilla Firefox;
+Showing a plugin example made both for Google Chrome and Mozilla Firefox;
 
 ![](https://raw.githubusercontent.com/lucasmence/chrome-firefox-example-plugin/master/demo/example.png)
 
