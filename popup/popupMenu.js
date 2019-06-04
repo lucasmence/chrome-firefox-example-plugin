@@ -1,12 +1,10 @@
+//listener-ouvinte, responsavel por detectar a acao ao clicar na tela do plugin
 document.addEventListener("click", function(e) {
     if (!e.target.classList.contains("button")) {
       return;
     }
 
-    var resultado = document.createElement('textarea');
-
-    resultado.value = null;
-
+    //callback avisando que terminou de colocar a borda
     function onExecuted(result) {
       alert("Finished!");
     }
