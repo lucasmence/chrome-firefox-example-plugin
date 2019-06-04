@@ -4,6 +4,7 @@ A example database showing an example of plugin made both for Google Chrome and 
 Follow the instructions to how install the plugin into your browser
 
 [English]
+
 Google Chrome:
 
 1. Open o Google Chrome;
@@ -22,6 +23,7 @@ Firefox:
 
 
 [Portuguese]
+
 Google Chrome:
 
 1. Abra o Google Chrome;
