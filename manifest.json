@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Example Plugin Toolbar - lucasmence",
+  "version": "1.0",
+
+  "description": "Created by lucasmence, add an icon into your toolbar to show an awesome message!",
+  "homepage_url": "https://github.com/lucasmence",
+  "icons": {
+    "48": "icons/sphere-48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/sphere-32.png",
+    "default_title": "FX Sistemas - GitLab",
+    "default_popup": "popup/popupMenu.html"
+  }
+
+}

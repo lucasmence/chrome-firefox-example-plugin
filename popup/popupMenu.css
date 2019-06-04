@@ -1,0 +1,25 @@
+html, body, textarea {
+    width: 300px;
+    height: 200px;
+    font-size: 12px;
+    background-image: linear-gradient(to right, rgb(204, 201, 46) , rgb(7, 168, 34));
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .button {
+    margin: 3% auto;
+    padding: 4px;
+    text-align: center;
+    font-size: 1.5em;
+    cursor: pointer;
+    background-color: royalblue;
+    color: white;
+  }
+  
+  .button:hover {
+    background-color: yellowgreen;
+    color: white;
+  }
