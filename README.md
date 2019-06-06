@@ -12,7 +12,7 @@ Google Chrome:
 1. Open o Google Chrome;
 2. Access "chrome:extensions";
 3. Enable the "Developer mode" option ;
-4. CLick on "Load without compression" and select the project's folder;
+4. CLick on "Load unpacked" and select the project's folder;
 5. Done, the plugin already has installed and gonna be at your toolbar;
 
 
